@@ -1,4 +1,4 @@
-# Troop 255 Programming Merit Badge
+# Programming Merit Badge
 BSA Programming merit badge materials. Created for Troop 255, Chevy Chase, MD, National Capital Area Council. Chartered by Chevy Chase United Methodist Church.
 
 This merit badge will be completed in two sessions.
