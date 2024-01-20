@@ -1,5 +1,5 @@
 # Programming Merit Badge
-BSA Programming merit badge materials. Created for Troop 255, Chevy Chase, MD, National Capital Area Council. Chartered by Chevy Chase United Methodist Church.
+BSA Programming merit badge materials. Created for HOAC 2024 Merit Badge Forum.
 
 This merit badge will be completed in two sessions.
 
@@ -49,12 +49,12 @@ Copy the *Internet Safety Pledge* text below into an email message and send it t
 2. Create an account using the **Sign up** button or log in to your account using the **Log in** button.
 2. Click on the **+ New repl** button.
 3. Choose the **Import from GitHub** tab at the top of the pop-up window.
-4. Copy and paste *yelirkram/t255-python* into the text box and click the **Import from GitHub** button.
+4. Copy and paste *scubaz/PMB-python* into the text box and click the **Import from GitHub** button.
 5. Wait a moment for repl.it to import the code from the GitHub repository.
 6. Explore the code and comments.
 7. Run the code to see how the program operates.
 8. Attempt to make suggested changes in the comments at the bottom.
-9. Repeat steps 3 - 9 for the **Java** *yelirkram/t255-java*, and **Julia** *yelirkram/t255-julia* projects.
+9. Repeat steps 3 - 9 for the **Java** *scubaz/PMB-java*, and **Julia** *scubaz/PMB-julia* projects.
 
 ##  Coding Project Troubleshooting
 https://stackoverflow.com/
