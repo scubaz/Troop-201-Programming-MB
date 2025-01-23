@@ -1,5 +1,5 @@
 # Programming Merit Badge
-BSA Programming merit badge materials. Created for HOAC 2024 Merit Badge Forum.
+BSA Programming merit badge materials. Created for HOAC 2025 Merit Badge Forum.
 
 This merit badge will be completed in two sessions.
 
@@ -21,26 +21,13 @@ This merit badge will be completed in two sessions.
 ## Review Merit Badge Requirements
 Review the requirements for the merit badge and get a general understanding of what we will be doing to earn the badge.
 
-https://boyslife.org/merit-badges/programming-merit-badge/
+https://www.scouting.org/merit-badges/programming/
 
-## Complete your Cyber Chip
-To help families and volunteers keep youth safe while online, the BSA introduced the Cyber Chip. In developing this exciting new tool, the BSA teamed up with content expert NetSmartz®, part of the National Center for Missing and Exploited Children® and training expert for many law enforcement agencies.
 
-https://www.scouting.org/training/youth-protection/cyber-chip/
+## Complete your Digital Safety video
+To help families and volunteers keep youth safe while online, the BSA introduced the Digital Safety Videos for Scout and Star rank scouts.  I would appreciate it if you watch them again as it is a part of the course.  You can send me proof through email.  A “scout is trustworthy” if you have completed your scout rank then I would expect have already completed this requirement!
+https://www.scouting.org/training/youth/scouts-bsa/ 
 
-Note: All Cyber Chips will expire annually. This must be done on the Scout's own (will not be covered during the class).
-
-### Level II Internet Safety Pledge
-Copy the *Internet Safety Pledge* text below into an email message and send it to at least one parent and your merit badge counselor with the Subject of 'Cyber Chip'. This will satisfy the first of five Cyber Chip requirements.
-
-**Internet Safety Pledge**
-1. I will think before I post.
-2. I will respect other people online.
-3. I will respect digital media ownership.
-4. I won't meet face-to-face with anyone I meet in the digital world unless I have my parent's permission.
-5. I will protect myself online.
-
-*Scout Name:*
 
 ---
 
